@@ -1,4 +1,4 @@
-// Create one function with zero parameter having a console statement;
+// Create one function with zero parameter having a console statement
 
 function fun1(){
     console.log("This is a function with zero parameter");
