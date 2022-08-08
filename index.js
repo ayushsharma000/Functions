@@ -45,20 +45,20 @@ function boy() {
 
 //Print output
 
-// var z = 21;
-// a();
-// b();
-// console.log(a);
-// a = function() {  
+var z = 21;
+a();
+b();
+console.log(a);
+a = function() {  
     
-//     z = 20;
-//     console.log(z);//20
-// };
-// b = function() {
+    z = 20;
+    console.log(z);//20
+};
+b = function() {
     
-//     z = 40;
-//     console.log(z);
-// };
+    z = 40;
+    console.log(z);
+};
 // a and b is not defined  
 
 
